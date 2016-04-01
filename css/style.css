@@ -1,0 +1,126 @@
+@charset "UTF-8";
+/**
+ * 
+ * @authors Your Name (you@example.org)
+ * @date    2015-08-18 15:00:58
+ * @version $Id$
+ */
+html,body{
+	width: 100%;
+	height: 99.9%;
+}
+body{
+	font-size:62.5%;	
+	padding-top: 1px;
+}
+.wl_main{
+	background: url(../images/background.png) no-repeat;
+	background-size: cover;
+	min-height: 480px;
+}
+.wl_logo{
+	width: 51.9%;
+	height: 25.7%;
+	margin: 23% auto 0;
+}
+.wl_logo img{
+	width: 100%;
+	height: 100%;
+}
+.wl_namebox{
+	width: 51.9%;
+	height: 29.8%;
+	margin: 18% auto 0;
+	display: block;
+}
+.wl_namebox input{
+	width: 98%;
+	height: 40%;
+	font-size:2em;
+	text-align: center;
+	line-height: 100%;
+	border: 1px solid #fb0200;
+	background: transparent;
+	color: #999999;
+	font-weight: bold;
+	outline: none;
+	margin: 1px 0 0 1px;
+}
+.wl_namebutton{
+	width: 100%;
+	height: 40%;
+	font-size:2em;
+	text-align: center;
+	line-height: 100%;
+	background: #fb0200;
+	color: #fff;
+	font-weight: bold;
+	outline: none;
+	margin-top: 16%;
+	border: 0;
+	box-shadow: 2px 2px 2px #bf0201;
+}
+.wl_mainbox{
+	position: absolute;
+	left: 0;
+	top: 0;
+	width: 86%;
+	height: 88%;
+	border: 4px double #000000;
+	margin:38px 0 0 16px;
+}
+
+
+
+
+
+/*.wl_foot{
+	width: 100%;
+	height: 68px;
+	line-height: 68px;
+	background: #f67978;
+	opacity: 0.8;
+	/*margin-top: 26%;*/
+	position: absolute;
+	bottom: 0;
+	left: 0;
+}
+/*.wl_foot p{
+	float: left;
+	margin:0 0 0 2%;
+	font-size: 2em;
+	color: #fff;
+	font-weight: bold;
+}
+.wl_footbtn{
+	width: 25%;
+	height: 60%;
+	text-align: center;
+	border: 0;
+	outline: none;
+	line-height: 100%;
+	vertical-align: middle;
+	background: #fb0200;
+	color: #fff;
+	display: inline-block;
+	font-size: 1.5em;
+	float: right;
+	margin: 4% 2% 0 0;
+	box-shadow: 2px 2px 2px #bf0201;
+}*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
